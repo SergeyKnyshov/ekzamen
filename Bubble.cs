@@ -3,22 +3,15 @@ namespace ekzamen;
 public class Bubble
 {
     public static int[] BubbleSort(int[] mas)
-    {
-        int temp = 0;
-        for(int i = 0; i < mas.Length; i++)
         {
-            for (int j = i + 1; j < mas.Length; j++)
-            {
-                if (mas[i] > mas[j])
-                {
-                    temp = mas[i];
-                    mas[i] = mas[j];
-                    mas[j] = temp;
-                }
-            }
-        }
-        return mas;
-    }
-    
-
+           for (int i = 0; i < mas.Length-1; i++)
+           {
+                   if (mas[i] > mas[i+1])
+                   {
+                       (mas[i], mas[i+1]) = (mas[i+1], mas[i]);
+                   }
+           }
+           return mas;
+       }
+   
 }

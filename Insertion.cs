@@ -12,8 +12,8 @@ public class Insertion
             j = i;
             while (j > 0 && mas[j - 1] > x)
             {
-                Swap(mas, j, j-1);
-                j -= 1;
+                Swap(mas,  j,  j-1);
+                j --;
             }
 
             mas[j] = x;
@@ -22,7 +22,7 @@ public class Insertion
         return mas;
     }
 
-    static void Swap(int[] array, int i, int j)
+    static void Swap(int[] array,  int i, int j)
     {
         (array[i], array[j]) = (array[j], array[i]);
     }
