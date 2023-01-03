@@ -1,0 +1,15 @@
+C:\Users\PC-\RiderProjects\ekzamen\bin\Debug\net6.0\ekzamen.exe
+C:\Users\PC-\RiderProjects\ekzamen\bin\Debug\net6.0\ekzamen.deps.json
+C:\Users\PC-\RiderProjects\ekzamen\bin\Debug\net6.0\ekzamen.runtimeconfig.json
+C:\Users\PC-\RiderProjects\ekzamen\bin\Debug\net6.0\ekzamen.dll
+C:\Users\PC-\RiderProjects\ekzamen\bin\Debug\net6.0\ekzamen.pdb
+C:\Users\PC-\RiderProjects\ekzamen\obj\Debug\net6.0\ekzamen.csproj.AssemblyReference.cache
+C:\Users\PC-\RiderProjects\ekzamen\obj\Debug\net6.0\ekzamen.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\PC-\RiderProjects\ekzamen\obj\Debug\net6.0\ekzamen.AssemblyInfoInputs.cache
+C:\Users\PC-\RiderProjects\ekzamen\obj\Debug\net6.0\ekzamen.AssemblyInfo.cs
+C:\Users\PC-\RiderProjects\ekzamen\obj\Debug\net6.0\ekzamen.csproj.CoreCompileInputs.cache
+C:\Users\PC-\RiderProjects\ekzamen\obj\Debug\net6.0\ekzamen.dll
+C:\Users\PC-\RiderProjects\ekzamen\obj\Debug\net6.0\refint\ekzamen.dll
+C:\Users\PC-\RiderProjects\ekzamen\obj\Debug\net6.0\ekzamen.pdb
+C:\Users\PC-\RiderProjects\ekzamen\obj\Debug\net6.0\ekzamen.genruntimeconfig.cache
+C:\Users\PC-\RiderProjects\ekzamen\obj\Debug\net6.0\ref\ekzamen.dll
